@@ -1,16 +1,9 @@
-[
-  {
-    "id": "409a82bd4eded4ff",
-    "username": "SIGMA",
-    "password": "SIGMA",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+{
+  "kuro": {
+    "panelUrl": "https://battleloader.vippannel.site",
+    "deviceKey": null,
+    "kuroToken": "Vm8Lk7Uj2JmsjCPVPVjrLa7zgfx3uz9E",
+    "kuroConnected": true,
+    "lastVerified": "2025-10-04T00:00:00Z"
   }
-]
+}
